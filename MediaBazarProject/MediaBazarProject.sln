@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaBazarProject", "MediaBazarProject\MediaBazarProject.csproj", "{7FEC062B-C393-4D76-A744-3D867FA3726D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{4DE27856-1A98-4B31-806E-8FDF174DA6AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FEC062B-C393-4D76-A744-3D867FA3726D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FEC062B-C393-4D76-A744-3D867FA3726D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FEC062B-C393-4D76-A744-3D867FA3726D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FEC062B-C393-4D76-A744-3D867FA3726D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DE27856-1A98-4B31-806E-8FDF174DA6AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE27856-1A98-4B31-806E-8FDF174DA6AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE27856-1A98-4B31-806E-8FDF174DA6AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE27856-1A98-4B31-806E-8FDF174DA6AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE9EC6F8-D270-42F8-B399-A974C6B433A1}
+	EndGlobalSection
+EndGlobal
